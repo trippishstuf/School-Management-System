@@ -1,4 +1,4 @@
-# School-Management-System
+# School-Management-System-Python-MySQL-GUI
 
 Project Description:
 
