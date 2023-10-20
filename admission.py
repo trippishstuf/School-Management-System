@@ -34,7 +34,7 @@ def ADM_MENU():
 
 def admn_details():
     try:
-        mycon = co.connect(host="localhost", user="root", passwd="aarushi953", database="MPS")
+        mycon = co.connect(host="localhost", user="root", passwd="aarushi9530", database="MPS")
         cursor = mycon.cursor()
         adno = input('Enter Admission number')
         rno = int(input('Enter Roll no'))
